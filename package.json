@@ -1,0 +1,27 @@
+{
+  "name": "test-api-server",
+  "homepage": "https://alisakravchenko.github.io/test-api",
+  "version": "1.0.0",
+  "description": "text api server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "deploy": "npm run start",
+    "predeploy": "gh-pages -d ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "test",
+    "rest"
+  ],
+  "author": "Alisa Kravchenko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "gh-pages": "^3.2.3",
+    "nodemon": "^2.0.15"
+  }
+}
