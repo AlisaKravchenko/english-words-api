@@ -1,13 +1,1 @@
-{
-   "firstName": "Иван",
-   "lastName": "Иванов",
-   "address": {
-       "streetAddress": "Московское ш., 101, кв.101",
-       "city": "Ленинград",
-       "postalCode": 101101
-   },
-   "phoneNumbers": [
-       "812 123-1234",
-       "916 123-4567"
-   ]
-}
+['a\n', '\nabandon\n', '\nability\n', '\nable\n', '\nabolish\n', '\nabortion\n', '\nabout\n', '\nabove\n', '\n\n\nabroad\n', '\nabsence\n', '\nabsent\n', '\nabsolute\n', '\nabsolutely\n', '\nabsorb\n', '\nabstract\n', '\nabsurd\n', '\nabundance\n', '\nabuse\n', '\n\n\nabuse\n', '\nacademic\n', '\nacademy\n', '\naccelerate\n', '\naccent\n', '\naccept\n', '\naccep']
